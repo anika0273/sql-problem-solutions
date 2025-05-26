@@ -1,0 +1,8 @@
+order_id	user_id	quantity	status	date	price
+100101	111	10	Cancelled	8/17/22 12:00	9.8
+100102	111	10	Completed	8/17/22 12:00	10
+100259	148	35	Completed	8/25/22 12:00	5.1
+100264	148	40	Completed	8/26/22 12:00	4.8
+100305	300	15	Completed	9/5/22 12:00	10
+100400	178	32	Completed	9/17/22 12:00	12
+100565	265	2	Completed	9/27/22 12:00	8.7
